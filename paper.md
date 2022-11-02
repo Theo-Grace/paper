@@ -2,8 +2,9 @@
 Numerical study of a Bilayer Kitaev Model
 
 # Author
-Theo Grace  
 Sam
+Theo Grace  
+
 
 # Introduction
 Simulations of bilayer Kitaev model with Gamma and Heisenberg term interactions.
