@@ -1,1 +1,2 @@
-Kitaev 2006 
+Kitaev 2006 Exactly solvable model
+Siefert et al 2018 Bilayer Kitaev models
