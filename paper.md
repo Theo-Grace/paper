@@ -5,4 +5,6 @@ Study of Bilayer Kitaev Model
 Theo Grace  
 
 # Introduction
-We study a bilayer Kitaev model with Gamma and Heisenberg term interactions. 
+We study a bilayer Kitaev model with Gamma and Heisenberg term interactions.
+
+The Kitaev model was solved exactly (Kitaev et al) 
