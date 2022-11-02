@@ -16,3 +16,6 @@ This model has anyon solutions which could used in topological quantum computing
 
 # Simulations
 The bandstructure of the majorana modes is calculated numerically 
+
+# Methodology
+Use mean field theory to analyse model, as detailed in (Smith et al 2002)

@@ -1,2 +1,3 @@
 Kitaev 2006 Exactly solvable model
 Siefert et al 2018 Bilayer Kitaev models
+Smith et al 2002 Mean field theories 
