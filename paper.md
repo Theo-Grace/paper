@@ -24,4 +24,7 @@ Use mean field theory to analyse model, as detailed in (Smith et al 2002)
 The simulations show linear dispersion for Majoranas in the matter sector at the K points
 
 # Figures 
-Figures go in their own section in a draft paper 
+Figures go in their own section in a draft paper
+
+# Conclusions 
+We have found flat bands with interesting implications  
