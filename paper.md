@@ -1,5 +1,8 @@
 # Title 
-Aging of biomass burning aerosols over West Africa 
+Study of Bilayer Kitaev Model
 
 # Author
 Theo Grace  
+
+# Introduction
+We study a bilayer Kitaev model with Gamma and Heisenberg term interactions. 
