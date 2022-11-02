@@ -19,3 +19,6 @@ The bandstructure of the majorana modes is calculated numerically
 
 # Methodology
 Use mean field theory to analyse model, as detailed in (Smith et al 2002)
+
+# Results
+The simulations show linear dispersion for Majoranas in the matter sector at the K points  
