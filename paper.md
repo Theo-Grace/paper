@@ -1,5 +1,5 @@
 # Title 
-Study of Bilayer Kitaev Model
+Numerical study of a Bilayer Kitaev Model
 
 # Author
 Theo Grace  
